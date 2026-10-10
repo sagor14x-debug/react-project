@@ -1,5 +1,5 @@
-
 import Bannar from "./Components/Bannar"
+import Footer from "./Components/Footer"
 import Nav from "./Components/Nav"
 
 
@@ -10,6 +10,7 @@ function App() {
     <>
     <Nav />
     <Bannar />
+    <Footer />
    
     </>
   )
