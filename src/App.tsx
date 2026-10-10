@@ -1,6 +1,7 @@
 import Bannar from "./Components/Bannar"
-import Footer from "./Components/Footer"
 import Nav from "./Components/Nav"
+import Footer from "./Components/Footer"
+import Technology from "./Components/Technology"
 
 
 function App() {
@@ -10,8 +11,8 @@ function App() {
     <>
     <Nav />
     <Bannar />
+    <Technology />
     <Footer />
-   
     </>
   )
 }
