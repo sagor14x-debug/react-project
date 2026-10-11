@@ -26,10 +26,6 @@ React Icons -->
 
 
 
-
-
-
-
 <!-- Key Features
 
 Explore Technologies: Browse technology cards with icons, descriptions, categories, difficulty levels, and ratings.
